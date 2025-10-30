@@ -33,7 +33,7 @@ At **OpsMint**, we blend **AI, automation, and engineering excellence** to build
 ---
 
 ### 🌐 Connect With Us
-[![Website](https://img.shields.io/badge/Website-opsmint.com-blue?style=flat&logo=google-chrome)](https://opsmint.org)
+[![Website](https://img.shields.io/badge/Website-opsmint.org-blue?style=flat&logo=google-chrome)](https://opsmint.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OpsMint-blue?style=flat&logo=linkedin)](https://linkedin.com/company/opsmint)
 [![GitHub](https://img.shields.io/badge/GitHub-OpsMint__Tech-black?style=flat&logo=github)](https://github.com/OpsMint-tech)
 
